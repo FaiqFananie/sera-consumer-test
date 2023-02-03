@@ -4,9 +4,9 @@ Description: service for send list products from database to targeted email in q
 ## Environment
 - Programming Language: JavaScript
 - Database: Postgres
-- email: mailtrap
-- message broker: rabbitmq
-- Code Standarization: eslint
+- email: Mailtrap
+- message broker: Rabbitmq
+- Code Standarization: Eslint
 
 ## Getting Started
 1. Install all library NPM with `npm install`
